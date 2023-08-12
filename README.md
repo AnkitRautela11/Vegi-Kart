@@ -14,5 +14,6 @@
 
 ## Our Team:
 
-![image](https://i.ibb.co/ZfLt3v9/Whats-App-Image-2021-04-11-at-3-32-44-PM.jpg)
+![image]![team](https://github.com/AnkitRautela11/Vegi-Kart/assets/105415143/2b12e076-f727-451b-815d-d550a4c2bcff)
+
 
